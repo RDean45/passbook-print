@@ -13,6 +13,7 @@ public class PassbookPrintApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PassbookPrintApplication.class, args);
+		System.out.println("hello world");
 	}
 
 }
